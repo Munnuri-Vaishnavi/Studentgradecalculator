@@ -36,12 +36,19 @@ Java JDK 8 or higher
 Enter the no.of students: 2
 
 Student 1 marks details:
+
 Enter student name: Alice
+
 Enter marks for Math: 85
+
 Enter marks for Science: 90
+
 Enter marks for English: 88
+
 Enter marks for History: 92
+
 Enter marks for Computer: 87
+
 
 --- Grade Report ---
 Student Name: Alice
