@@ -23,9 +23,13 @@ This is a simple Java console application that calculates grades for multiple st
    git clone https://github.com/your-username/grade-calculator.git
 - Compile and run the program:
 javac GradeCalculator.java
+
 java GradeCalculator
+
  Requirements- Java JDK 8 or higher
+ 
 - Command-line interface (CLI)
+- 
 📦 ## Example Output
 Enter the no.of students: 2
 
