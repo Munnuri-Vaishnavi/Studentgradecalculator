@@ -60,6 +60,32 @@ Average: 58.8
 
 Grade: F
 
+Student 2 marks details:
+
+Enter student name: Bob
+
+Enter marks for Math: 55
+
+Enter marks for Science: 60
+
+Enter marks for English: 58
+
+Enter marks for History: 62
+
+Enter marks for Computer: 59
+
+--- Grade Report ---
+
+Student Name: Bob
+
+Total Marks: 294
+
+Average: 58.8
+
+Grade: F
+
+
+
 --- Final Report is ---
 
 passed Student is:
