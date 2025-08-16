@@ -51,13 +51,21 @@ Enter marks for Computer: 87
 
 
 --- Grade Report ---
+
 Student Name: Alice
+
 Total Marks: 294
+
 Average: 58.8
+
 Grade: F
 
 --- Final Report is ---
+
 passed Student is:
+
 Alice
+
 failed Student is:
+
 Bob
